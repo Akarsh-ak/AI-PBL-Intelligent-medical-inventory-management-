@@ -34,7 +34,7 @@ The detailed Month 1 report is available in the repository.
 
 ### Current Progress
 
-**Month 1 Progress: 20%**
+**Month 1 Progress: 25%**
 
 The project is currently in the problem-understanding, research and planning stage. Implementation and testing will be carried out in later stages.
 
